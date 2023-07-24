@@ -11,8 +11,6 @@ Feel free to explore, and let's connect if you have any cool ideas to work on to
 
 Thanks for stopping by, and happy coding!
 
-<p align="left"> <a href="https://www.linkedin.com/in/ragavan-subramaniam-87ab52169/" target="blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a></a> Connect with me </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -25,7 +23,7 @@ Thanks for stopping by, and happy coding!
 
 - 🌱 I’m currently learning React Native
 
-- 💬 Ask me about **Java Script and CSS**
+- 💬 Ask me about **CSS and Java Script**
 
 - 📫 How to reach me **ragavan111999@gmail.com**
 
