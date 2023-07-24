@@ -40,7 +40,7 @@ Thanks for stopping by, and happy coding!
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![JAVA](https://img.shields.io/badge/java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![JAVA](https://img.shields.io/badge/java%20-%23E34F26C.svg?style=for-the-badge&logo=java&logoColor=white)
     
 - **Front-End Development**:
 
@@ -49,6 +49,9 @@ Thanks for stopping by, and happy coding!
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 
+- **Java Script Frameworks**:	
+   ![Nodejs](https://img.shields.io/badge/nodejs%20-%23F7DF1E.svg?style=for-the-badge&logo=nodejs&logoColor=black)
+  
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
