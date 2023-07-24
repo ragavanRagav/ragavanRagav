@@ -11,9 +11,7 @@ Feel free to explore, and let's connect if you have any cool ideas to work on to
 
 Thanks for stopping by, and happy coding!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/ragavan-subramaniam-87ab52169/" target="blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ragavan-subramaniam-87ab52169/" target="blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a></a> Connect with me </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
