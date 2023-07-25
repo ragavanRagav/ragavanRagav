@@ -49,8 +49,9 @@ Thanks for stopping by, and happy coding!
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-- **Java Script Frameworks**:	
-   ![Nodejs](https://img.shields.io/badge/nodejs%20-%23F7DF1E.svg?style=for-the-badge&logo=nodejs&logoColor=black)
+- **Java Script Frameworks**:
+  
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   
 - **Cloud Hosting**:
 
