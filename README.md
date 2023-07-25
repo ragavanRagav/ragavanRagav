@@ -72,6 +72,8 @@ Thanks for stopping by, and happy coding!
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ragavan-subramaniam-87ab52169/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+	  <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/r_a_g_a_v_a_n_r_a_g_a_v/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       </div>
 
 </p>
