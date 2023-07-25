@@ -51,7 +51,7 @@ Thanks for stopping by, and happy coding!
 
 - **Java Script Frameworks**:
   
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![Nodejs](https://img.shields.io/badge/Nodejs-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
 - **Cloud Hosting**:
 
