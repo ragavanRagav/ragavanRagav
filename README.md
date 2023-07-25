@@ -51,6 +51,7 @@ Thanks for stopping by, and happy coding!
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Neftlify](https://img.shields.io/badge/Netlify-%23327FC7.svg?style=for-the-badge&logo=netlify&logoColor=white)
    
 
 - **Softwares and Tools**:
