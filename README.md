@@ -51,7 +51,7 @@ Thanks for stopping by, and happy coding!
 
 - **Java Script Frameworks**:
   
-    ![Nodejs](https://img.shields.io/badge/Nodejs-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Nodejs](https://img.shields.io/badge/Nodejs-%23054020?style=for-the-badge&logo=nodejs&logoColor=white)
   
 - **Cloud Hosting**:
 
