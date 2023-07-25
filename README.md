@@ -52,6 +52,7 @@ Thanks for stopping by, and happy coding!
 - **Java Script Frameworks**:
   
     ![Nodejs](https://img.shields.io/badge/Nodejs-%23054020?style=for-the-badge&logo=javascript&logoColor=white)
+    ![Reactjs](https://img.shields.io/badge/Reactjs%20-%232370ED.svg?style=for-the-badge&logo=react&logoColor=white)
   
 - **Cloud Hosting**:
 
@@ -65,13 +66,7 @@ Thanks for stopping by, and happy coding!
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-
-- **Extras**:
-
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
 
 </p>
 
